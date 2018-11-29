@@ -13,4 +13,4 @@ class Model:
         return self.model.convert(sentence)
 
 model = Model()
-print(model.convert('我是个杀手，我没有感情。'))
+print(model.convert('我是个杀手，我没有感情'))
