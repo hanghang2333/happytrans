@@ -13,6 +13,7 @@ sentence = '没有事的，不要发神经，我是个杀手，我没有感情�
 print(model.convert(sentence))
 #么得事哩，不要神戳戳，我是个杀手，我么得感情，杀老你我豆克睡告告哒。
 ```
+测试网址:http://66.42.62.255:8001/
 备注:
 
 python setup.py sdist upload
